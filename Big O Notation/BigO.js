@@ -32,7 +32,7 @@ function add2(n) {
 /******************** Introducing BIG O  *********************/
 
 /**
- * Big-O is a standard mathematical notation that shows how efficient an algorithm is in the worst-case scenario relative to its input size
+ * Big-0 is a standard mathematical notation that shows how efficient an algorithm is in the worst-case scenario relative to its input size
  * It is usually written as: f(n) = O(inputSize)f(n)=O(inputSize)
  * https://www.educative.io/edpresso/what-is-bigo-notation
  *
@@ -79,4 +79,3 @@ function add(n) {
     }
   }
 }
-
