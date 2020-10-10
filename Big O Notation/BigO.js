@@ -11,7 +11,7 @@
  */
 
 // Using loop
-//  It's matter what n is, if n is 2 , there is 2X calculation, if n is million then millionX operation
+//  It is matter what n is, if n is 2 , there is 2X calculation, if n is million then millionX operation
 // 5n + 2
 function add(n) {
   let sum = 0; // 1 assignment
@@ -32,8 +32,8 @@ function add2(n) {
 /******************** Introducing BIG O  *********************/
 
 /**
- * Big-0 is a standard mathematical notation that shows how efficient an algorithm is in the worst-case scenario relative to its input size
- * It is usually written as: f(n) = O(inputSize)f(n)=O(inputSize)
+ * Big-O is a standard mathematical notation that shows how efficient an algorithm is in the worst-case scenario relative to its input size
+ * It's usually written as: f(n) = O(inputSize)f(n)=O(inputSize)
  * https://www.educative.io/edpresso/what-is-bigo-notation
  *
  * O(1) => Constant
