@@ -14,6 +14,16 @@
  * O(n2 + 10n + 99) => O(n2) // (10000)2 + 10X10000 + 99 = 100,010,099 = 100,000,000 => n2
  */
 
+/********** Shorthands */
+
+/**
+ *
+ * Arithmetic operations are constant
+ * variable assignment is constant
+ * accessing element in an array / object by index/key is constant
+ * in a loop, the complexity is the length of the loop times the complexity of whatever happens inside the loop
+ */
+
 // some complex examples :-
 
 // O(n)- we only care about only n grows larger, if n = 1000 the loop will run 1000 times
